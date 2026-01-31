@@ -2,9 +2,10 @@
 I’m **Om**, a **Artificial Intelligence Engineer**, with a strong focus on **Agentic RAG systems**, **LLMOps**, and **backend engineering**.
 
 I build **production-grade AI systems**, not just notebooks — including:
-- 🧠 **Agentic RAG Systems**
-- 🔐 **Real Time Violence Detection System**
-- 📄 **VETA-AI (Voice Evaluation and Technical Assesment)**
+- 🤖 **Agentic RAG Systems**
+- 🎙️ **VETA-AI (Voice Evaluation and Technical Assesment)**
+- 👁️ **Real Time Violence Detection System**
+
 
 I enjoy designing **modular architectures**, reasoning workflows using **LangGraph**, and deploying scalable APIs with **FastAPI & Docker**.
 
