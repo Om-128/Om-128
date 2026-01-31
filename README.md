@@ -1,5 +1,5 @@
 # About Me
-I’m **Om**, a **Software Developer transitioning into AI/ML & GenAI**, with a strong focus on **Agentic RAG systems**, **LLMOps**, and **backend engineering**.
+I’m **Om**, a **Artificial Intelligence Engineer**, with a strong focus on **Agentic RAG systems**, **LLMOps**, and **backend engineering**.
 
 I build **production-grade AI systems**, not just notebooks — including:
 - 🧠 **Autonomous Threat Intelligence RAG Systems**
