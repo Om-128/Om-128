@@ -2,9 +2,9 @@
 I’m **Om**, a **Artificial Intelligence Engineer**, with a strong focus on **Agentic RAG systems**, **LLMOps**, and **backend engineering**.
 
 I build **production-grade AI systems**, not just notebooks — including:
-- 🧠 **Autonomous Threat Intelligence RAG Systems**
+- 🧠 **Agentic RAG Systems**
 - 🔐 **Real Time Violence Detection System**
-- 📄 **Government Scheme & Document Advisor (India-specific Agentic RAG)**
+- 📄 **VETA-AI (Voice Evaluation and Technical Assesment)**
 
 I enjoy designing **modular architectures**, reasoning workflows using **LangGraph**, and deploying scalable APIs with **FastAPI & Docker**.
 
