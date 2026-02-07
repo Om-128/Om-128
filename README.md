@@ -16,14 +16,7 @@ I enjoy designing **modular architectures**, reasoning workflows using **LangGra
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Om-128&theme=tokyonight&hide_border=false)<br/>
 
-<p align="center">
-  <img width="800" />
-</p>
-
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Om-128&theme=transparent) |
 | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Om-128&theme=transparent&utcOffset=5.5) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Om-128&theme=transparent) |
-| :-: | :-: |
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
