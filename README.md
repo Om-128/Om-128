@@ -3,7 +3,7 @@ I’m **Om**, a **Artificial Intelligence Engineer**, with a strong focus on **A
 
 I build **production-grade AI systems**, not just notebooks — including:
 - 🤖 **Agentic RAG Systems**
-- 🎙️ **VETA-AI (Voice Evaluation and Technical Assesment)**
+- 🎙️ **VETA-AI - Voice Evaluation and Technical Assesment**
 - 👁️ **Real Time Violence Detection System**
 
 
